@@ -1,0 +1,17 @@
+<svg width="240" height="64" viewBox="0 0 240 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pp_g" x1="12" y1="8" x2="52" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="rgb(129 140 248)"/>
+      <stop offset="1" stop-color="rgb(99 102 241)"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path d="M32 8L52 20V44L32 56L12 44V20L32 8Z" fill="rgb(20 27 45)" stroke="url(#pp_g)" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M32 16L46 24V40L32 48L18 40V24L32 16Z" stroke="rgb(129 140 248)" stroke-width="2.5" stroke-linejoin="round" opacity="0.9"/>
+    <path d="M18 24L32 32L46 24" stroke="rgb(99 102 241)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  </g>
+  <g>
+    <text x="72" y="40" font-family="Syne, system-ui, -apple-system, Segoe UI, sans-serif" font-size="26" font-weight="700" fill="rgb(241 245 249)">PrismPrep</text>
+    <text x="188" y="40" font-family="DM Sans, system-ui, -apple-system, Segoe UI, sans-serif" font-size="16" font-weight="700" fill="rgb(148 163 184)">AI</text>
+  </g>
+</svg>
